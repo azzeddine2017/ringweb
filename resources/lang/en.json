@@ -1,0 +1,27 @@
+{
+    "messages": {
+        "welcome": "Welcome to your application",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "email": "Email",
+        "password": "Password",
+        "remember_me": "Remember Me",
+        "forgot_password": "Forgot Password?",
+        "submit": "Submit",
+        "cancel": "Cancel"
+    },
+    "validation": {
+        "required": "The :field field is required",
+        "email": "The :field must be a valid email address",
+        "min": "The :field must be at least :min characters",
+        "max": "The :field may not be greater than :max characters",
+        "confirmed": "The :field confirmation does not match"
+    },
+    "errors": {
+        "404": "Page Not Found",
+        "500": "Server Error",
+        "forbidden": "Forbidden",
+        "unauthorized": "Unauthorized"
+    }
+}

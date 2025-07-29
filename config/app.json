@@ -1,0 +1,14 @@
+{
+    "debug": true,
+    "environment": "development",
+    "locale": "en",
+    "fallback_locale": "en",
+    "cache": {
+        "driver": "file"
+    },
+    "autoload": [
+        ["App", "app"],
+        ["App.Controllers", "app/controllers"],
+        ["App.Models", "app/models"]
+    ]
+}
