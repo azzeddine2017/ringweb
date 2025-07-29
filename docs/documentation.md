@@ -32,7 +32,7 @@ RingWeb is a modern, lightweight MVC framework built with the Ring programming l
 - Ring 1.22 or higher
 - Web Server (Apache/Nginx)
 - MySQL Database
-- Composer (optional, for package management)
+- ringpm (optional, for package management)
 
 ### Installation
 ```bash
